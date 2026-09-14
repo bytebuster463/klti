@@ -60,15 +60,12 @@ build.bat
 `Res` генерує необхідні `*.ico` файли й має бути виконаний перед збіркою Debug або Release.
 
 `build.bat Res`
-
 : Генерує `*.ico` файли. **Потрібно виконати** перед збіркою Debug або Release.
 
 `build.bat`
-
 : Збирає Release-версію та заповнює `dist/Release`.
 
 `build.bat Debug`
-
 : Збирає Debug-версію.
 
 Команда `Res` перетворює вихідні SVG-ресурси на ICO-файли. Для її виконання Visual Studio не потрібна.

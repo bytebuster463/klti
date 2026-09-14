@@ -60,7 +60,6 @@ build.bat
 `Res` generates the required `*.ico` files and must be run before building Debug or Release.
 
 `build.bat Res`
-
 : Generate `*.ico` files. **Required** before Debug or Release builds.
 
 `build.bat`
