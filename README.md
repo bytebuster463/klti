@@ -68,10 +68,6 @@ build.bat
 `build.bat Debug`
 : Build the Debug version.
 
-The `Res` command converts the SVG source assets into ICO files. It does not require Visual Studio.
-
-A normal build does not generate resources automatically. If the required `build/resources/klti.ico` file is missing, the build instructs the user to run `build.bat Res` first.
-
 ### Icons and assets
 
 The SVG source files used to create the icons are **not published in this repository**.
